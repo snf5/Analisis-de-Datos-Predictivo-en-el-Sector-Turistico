@@ -1,4 +1,4 @@
-# Análisis-de-Datos-Predictivo-en-el-Sector-Turístico
+# Análisis de Datos Predictivo en el Sector Turístico
 
 En este proyecto se va a dar a conocer en profundidad el impacto económico en la ciudad de Torrevieja del auge de las plataformas de turismo colaborativo y el cambio del turismo en los últimos 8 años.
 
